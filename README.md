@@ -29,4 +29,4 @@
 将生成的图片用于现场打印（请注意使用该功能过度修改可能会导致被现场STAFF针对）
 
 ## 姐妹项目
-# [米哈游漫展ID卡图片生成器](https://github.com/Fengbujue2783/HoYo-Card-Generator)
+## [米哈游漫展ID卡图片生成器](https://github.com/Fengbujue2783/HoYo-Card-Generator)
